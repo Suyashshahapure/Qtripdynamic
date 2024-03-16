@@ -1,0 +1,15 @@
+{
+  "name": "qtrip-dynamic",
+  "version": "1.0.0",
+  "description": "a destination booking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suyash",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23",
+    "ts-node": "^10.9.2"
+  }
+}
