@@ -39,3 +39,5 @@ function addAdventureToDOM(adventures) {
         document.getElementById("data").append(div);
     }
 }
+
+
